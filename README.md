@@ -19,7 +19,7 @@ Must have OS module installed.
 1. First clone the project
 2. Make your training and testing data.
 3. Now first run the faceRecognition.py then run tester.py
-4. After training you the model will predict the name of person by fetching face from camera/video.
+4. After training the model will predict the name of person by fetching face from camera/video.
 5. While running the program for second or third time, we can load the trainingData.yml(results of previous training) as a training data.
 
 # Contributors:

@@ -12,19 +12,9 @@ More than 50 images of each person.
 1. LBPH Face Recognizer
 2. Haar cascade classifier
 
-# Pre-Requisites:
-Must have Python3 installed.
-Must have OpenCV module installed.
-Must have Numpy module installed.
-Must have OS module installed.
-
-# Instructions to run:
-1. First clone the project
-2. Make your training and testing data. Make different sub-directories with the label name for each person. 
-   Specify the name of the person with directory label in your program.
-3. Now first run the faceRecognition.py then run tester.py
-4. After training the model will predict the name of the person by fetching face from camera/video.
-5. While running the program for the second or third time, we can load the trainingData.yml(results of previous training) as training data.
+# About:
+Face Detection on pictures with different emotion, gesture & posture using LBPH face recognizer. 	Then extracted unique characteristics of face through Data
+Gathering & trained the model which leads to Data Comparision when provided with test face. Face Recognition will determine who the person is.
 
 # Contributors:
 > Sharad Kumar Tiwari
